@@ -9,7 +9,10 @@ Buscando ese cambio, comence un pequeño curso de Codo a Codo en donde aprendimo
 Gracias a todos estos pasos tambien adquiri 'Soft Skills' junto con herramientas 'Agile Model' y 'Scrum'. 
 
 Hace un año, busco mi primer trabajo en este maravilloso mundo IT. 
-## Mi linkedIn es: https://www.linkedin.com/in/daiana-raposo/ donde subo mis cursos finalizados y los proyectos donde trabajo
+
+Mi linkedIn es: https://www.linkedin.com/in/daiana-raposo/ donde subo mis cursos finalizados y los proyectos donde trabajo
+
+##
 
 Dos años en donde todo fue prueba y error como tambien redescubrimiento y conocimiento. Y esto, recien empieza... :muscle:
 
